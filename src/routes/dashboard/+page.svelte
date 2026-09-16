@@ -79,6 +79,7 @@
 				<option value="Окрашивание волос"></option>
 				<option value="Коррекция бровей"></option>
 				<option value="Макияж"></option>
+				<option value="Уход за лицом"></option>
 				<option value="Педикюр"></option>
 				<option value="Ламинирование ресниц"></option>
 				<option value="Наращивание ресниц"></option>
