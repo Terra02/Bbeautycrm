@@ -79,7 +79,17 @@
 				<option value="Окрашивание волос"></option>
 				<option value="Коррекция бровей"></option>
 				<option value="Макияж"></option>
-				<option value="Уход за лицом"></option>
+				<option value="Педикюр"></option>
+				<option value="Ламинирование ресниц"></option>
+				<option value="Наращивание ресниц"></option>
+				<option value="Депиляция"></option>
+				<option value="Эпиляция"></option>
+				<option value="Татуаж бровей"></option>
+				<option value="Укладка волос"></option>
+				<option value="Химическая завивка"></option>
+				<option value="Ламинирование волос"></option>
+				<option value="Маски для лица и волос"></option>
+				<option value="Массаж головы и шеи"></option>
 			</datalist>
 			<button>Сохранить</button>
 		</form>
